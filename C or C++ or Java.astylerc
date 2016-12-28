@@ -1,4 +1,6 @@
-# My Astyle options for C/C++/Java #
+# My Artistic Style options for C/C++/Java #
+# This file is based on: https://github.com/Lin-Buo-Ren/My_Coding_Style
+# This version is currently based on Artistic Style 2.05.1
 
 # 因為我們有版本控制不備份原檔
 --suffix=none
