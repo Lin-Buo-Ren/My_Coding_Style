@@ -5,3 +5,7 @@
 // Diagnostics options //
 // This option specifies what level of accessibility checking, if any, that Tidy should perform.
 accessibility-check: 3
+
+// Pretty Print options //
+// This option specifies if Tidy should generate a pretty printed version of the markup. Note that Tidy won't generate a pretty printed version if it finds significant errors (see force-output).
+markup: no
